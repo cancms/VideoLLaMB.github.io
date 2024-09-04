@@ -119,7 +119,7 @@ VideoLLaMB is a novel long video comprehension framework utilizing Memory Bridge
 
 ✨ Highlights:
 
-1. **Comprehensive long video understanding.** VideoLLaMB-7B reached the state-of-the-art performance among 7B models on [EgoSchema](https://egoschema.github.io/), [NexTQA](https://github.com/doc-doc/NExT-QA) and [MVBench](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md), reaching *8x longer video length* with robust performance in comparison to [PLLaVA](https://pllava.github.io/). 
+1. **Comprehensive long video understanding.** VideoLLaMB-7B reached the state-of-the-art performance among 7B models trained on vicuna-7b and videochat2 video on [EgoSchema](https://egoschema.github.io/), [NexTQA](https://github.com/doc-doc/NExT-QA) and [MVBench](https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md), reaching *8x longer video length* with robust performance in comparison to [PLLaVA](https://pllava.github.io/). 
 
 2. **Memory-based egocentric planning.** VideoLLaMB achieves the best performance among all video-language models on [EgoPlan](https://github.com/ChenYi99/EgoPlan), with an improvement of $$2.06$$ over PLLaVA.
 
