@@ -596,7 +596,7 @@ where $$W_i^Q, W_i^K, W_i^V$$ are weight martices for query, key and value, resp
 @article{wang2024videollamb,
     title={VideoLLaMB: Long-context Video Understanding with Recurrent Memory Bridges},
     author={Wang, Yuxuan and Xie, Cihang and Liu, Yang and Zheng, Zilong},
-    journal={arXiv preprint arXiv:xxxx.xxxxx},
+    journal={arXiv preprint arXiv:2409.01071},
     year={2024}
 }
 ```
