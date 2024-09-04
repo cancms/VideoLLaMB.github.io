@@ -26,7 +26,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 related_research:
   - title: "ExoViP"
-    url: "https://bigai-nlco.github.com//ExoViP"
+    url: "https://bigai-nlco.github.io/ExoViP/"
   - title: "VideoHallucer"
     url: "https://videohallucer.github.io/"
   - title: "LSTPChat"
